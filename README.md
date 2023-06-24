@@ -1,1 +1,1 @@
-# Bankingbot
+# Banking FAQ bot
